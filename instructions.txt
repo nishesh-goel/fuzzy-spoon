@@ -1,2 +1,4 @@
 Added instructions files directly to github for demo purposes
 Please refere to the website
+
+This is a second test from Github editing fro same file
